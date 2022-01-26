@@ -1,0 +1,12 @@
+Dados do aluno
+
+-Primeiro Nome: Fernanda
+-Profissão:Estudante/Futura QA
+-Cidade:São Paulo
+-O que faz nas horas vaga:Vejo tv quando não estou estudando
+-Feedback sobre o curso Qualidade de Software:O melhor de todos os cursos qeu ja fiz, nota 11
+-Feedback sobre a plataforma de estudo da EBAC:Seria 11 se em todas os conteudos tivesse algma prova, porem, como nao tem a nora sera 10 rs
+
+Obrigado!!!
+
+
